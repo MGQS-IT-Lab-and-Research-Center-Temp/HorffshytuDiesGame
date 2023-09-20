@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.AssemblyInfo.cs
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\abdulazeez\Game\bin\Debug\net7.0\Game.exe
+C:\Users\hp\Desktop\abdulazeez\Game\bin\Debug\net7.0\Game.deps.json
+C:\Users\hp\Desktop\abdulazeez\Game\bin\Debug\net7.0\Game.runtimeconfig.json
+C:\Users\hp\Desktop\abdulazeez\Game\bin\Debug\net7.0\Game.dll
+C:\Users\hp\Desktop\abdulazeez\Game\bin\Debug\net7.0\Game.pdb
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.dll
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\refint\Game.dll
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.pdb
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\Game.genruntimeconfig.cache
+C:\Users\hp\Desktop\abdulazeez\Game\obj\Debug\net7.0\ref\Game.dll
